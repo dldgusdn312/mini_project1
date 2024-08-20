@@ -18,6 +18,7 @@
 *사용툴
 
 -VisualStudio -C#, WinForm
+
 -Oracle
 
 *담당업무
@@ -27,10 +28,13 @@
 *결과
 
 -C# 프로그래밍 실력 향상
+
 -프로젝트 협업 능력 함양
+
 -스마트팩토리 도메인에 대한 이해
 
 *시연 동영상 주소
 
 -https://youtu.be/9hqKAZ_Ilbs
+
 -https://youtu.be/prhCgwWElfY
