@@ -1,2 +1,2 @@
-# mini_project1
+첫번째 미니프로젝트 1 (테슬라 전기 자동차 공정 시스템)
 Mini Project 1
